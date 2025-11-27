@@ -1,7 +1,7 @@
 #!/bin/bash
 # install-jan.sh – Automatically download and install the latest Jan .deb package on Linux
 # Supports Debian/Ubuntu and derivatives.
-# Author: Canapaio
+# Author: Canapaio, Luna (Qwen3)
 # Repository: https://github.com/canapaio/install-jan
 
 set -e  # Exit immediately if a command exits with a non-zero status
